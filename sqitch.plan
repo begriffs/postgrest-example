@@ -1,0 +1,11 @@
+%syntax-version=1.0.0-b2
+%project=forward-api
+%uri=https://github.com/loop-recur/forward-api
+
+v1schema 2014-10-06T04:00:12Z Joe Nelson <joe@looprecur.com> # Schema for v1 routes
+speakers [v1schema] 2014-10-06T04:10:51Z Joe Nelson <joe@looprecur.com> # Speakers table
+sessions [speakers] 2014-10-06T21:49:41Z Joe Nelson <joe@looprecur.com> # Conference sessions
+session_type [sessions] 2014-10-07T03:03:01Z Joe Nelson <joe@looprecur.com> # Are they talks or workshops?
+sponsors [v1schema] 2014-10-07T03:20:07Z Joe Nelson <joe@looprecur.com> # Our good sponsors
+speaker_order [speakers] 2014-10-13T03:35:24Z Joe Nelson <joe@looprecur.com> # Front-page order for speaker list
+ssl [v1schema] 2014-10-13T04:10:51Z Joe Nelson <joe@looprecur.com> # Enable SSL
