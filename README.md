@@ -1,6 +1,5 @@
-Schema for the the example
-[PostgREST](https://github.com/begriffs/postgrest) server running at
-[postgrest.herokuapp.com](https://postgrest.herokuapp.com).
+Schema for an example
+[PostgREST](https://github.com/begriffs/postgrest) API.
 
 After cloning this, install [sqitch](http://sqitch.org/) and configure
 
